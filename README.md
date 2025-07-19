@@ -159,4 +159,3 @@ kagglehub==0.3.12
 
 ---
 
-Jika kamu ingin file `README.md` dan `requirements.txt` disiapkan langsung dalam format file yang bisa diunduh, tinggal beri tahu.
